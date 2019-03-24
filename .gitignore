@@ -78,5 +78,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Content/fp_animation_set/*
+Content/PoligonVikings/*
+Content/EinFantasyViking/*
 Content/SnSAnimsetPro/*
 
